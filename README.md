@@ -1,5 +1,5 @@
 # MyProjects
-This is a collection of my project reports. The repository of each project's codes and datasets (if have) can be found in the corresponding report. 
+Thanks for your visit. This is a collection of Zeping Li's project reports. The repository of each project's codes and datasets (if have) can be found in the corresponding report. Github sometimes does not render the files successfully, you can directly download the files if you are still interested.
 
 The correspondence between projects and file names is as follows:
 
