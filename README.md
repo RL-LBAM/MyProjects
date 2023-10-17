@@ -9,4 +9,4 @@ Deep Bayesian Active Learning with Hybrid Query Strategies -- DBAL with hybrid q
 
 Human Probability Judgments: A Bayesian Sequential Sampler Account -- Bayesian sequential sampler.pdf
 
-A Model Comparison Study for Human Choices in Two-Armed Bandit Problems: Reinforcement Learning and Win-Stay-Loss-Shift Heuristics -- bandit problems_Chinese version.pdf (Note, this is a Chinese report).
+A Model Comparison Study for Human Choices in Two-Armed Bandit Problems: Reinforcement Learning and Win-Stay-Loss-Shift Heuristics -- bandit problems_Chinese version.pdf (Note, this is a Chinese report with an Engish abstract. The choices are called decisions from experience in this report and most psychological literature).
